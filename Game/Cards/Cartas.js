@@ -678,7 +678,7 @@ DeckFull.Falha = {
 DeckFull.Ash = {
     nome:"<b>Ash Greninja</b>",
     raridade:"DEV",
-    descricao:"<b>\"Já bebeu água hoje?\"</>",
+    descricao:"<b>\"Aquele que foi injustiçado pelo roteiro mesmo sendo a estrela...\"</>",
     Atlas:'Assets/cards.png',
     AlturaX:373,
     AlturaY:530,
